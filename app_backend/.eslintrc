@@ -1,0 +1,5 @@
+{
+  "eslint.workingDirectories": ["./back", "./front"],
+
+  "extends": "@sanity/eslint-config-studio"
+}
